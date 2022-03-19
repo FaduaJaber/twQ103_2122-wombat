@@ -4,7 +4,9 @@
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+Jorge Escobar Arenas  ->  Escobar-klk
+Miguel Águeda Leal
+Fadua Jaber Zekri
 
 ## Objetivos del trabajo
 
