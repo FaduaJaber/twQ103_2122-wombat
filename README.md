@@ -5,7 +5,7 @@
 ## Integrantes del equipo
 
 Jorge Escobar Arenas, cuyo perfil de github es "Escobar-klk"; Miguel Águeda Leal, cuyo perfil de github es ------;
-y Fadua Jaber Zekri, cuyo perfil de github es------.
+y Fadua Jaber Zekri, cuyo perfil de github es 'FaduaJaber'.
 
 ## Objetivos del trabajo
 
